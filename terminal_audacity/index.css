@@ -1,5 +1,6 @@
-body {
-    background: url("OtherMenu.png");
+html {
+    background: url(OtherMenu.png) no-repeat center center fixed;
+    background-size: cover;
 }
 
 #body-container {
