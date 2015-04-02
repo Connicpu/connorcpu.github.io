@@ -1,6 +1,7 @@
 html {
     background: url(OtherMenu.png) no-repeat center center fixed;
     background-size: cover;
+    font-family: "Comic Sans MS";
 }
 
 #body-container {
